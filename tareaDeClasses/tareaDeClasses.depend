@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1589505770 source:c:\users\user\desktop\cpp\tareadeclasses\persona.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+
+1589505770 c:\users\user\desktop\cpp\tareadeclasses\persona.h
+
+1590029211 source:c:\users\user\desktop\cpp\tareadeclasses\main.cpp
+	<iostream>
+	<cstring>
+	"Persona.h"
+	"Libro.h"
+	"Prestamo.h"
+
+1589507474 source:c:\users\user\desktop\cpp\tareadeclasses\libro.cpp
+	"Libro.h"
+	"Persona.h"
+	<iostream>
+	<cstring>
+
+1589505883 c:\users\user\desktop\cpp\tareadeclasses\libro.h
+	"Persona.h"
+
+1590028904 source:c:\users\user\desktop\cpp\tareadeclasses\prestamo.cpp
+	"Prestamo.h"
+	"Libro.h"
+	"Persona.h"
+	<iostream>
+	<cstring>
+
+1590028880 c:\users\user\desktop\cpp\tareadeclasses\prestamo.h
+
